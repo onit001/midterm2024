@@ -141,7 +141,7 @@ body {
 }
 
 .header-text {
-    position: absolute;
+    position: absolute; 
     bottom: 40px;
     left: 40px;
 }
